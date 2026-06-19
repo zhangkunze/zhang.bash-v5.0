@@ -18,3 +18,5 @@ chmod +x ~/Zhang.bash-v5.0/* && . ~/Zhang.bash-v5.0/Zhang.bash
 
 我的 Github: https://github.com/ZhangKunze
 
+我的 Codeberg: https://codeberg.org/ZKZLLPPAM
+
